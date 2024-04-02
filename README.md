@@ -23,6 +23,6 @@
 
 ⚡ Fun fact: I'm a huge fan of experimenting with new tech stacks and exploring the great outdoors.
 
----
 
-Feel free to adjust it further if needed!
+
+
