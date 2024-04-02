@@ -1,10 +1,28 @@
-- 👋 Hi, I’m @Navindevloper
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 
-<!---
-Navindevloper/Navindevloper is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+👋 Hey there! I'm Navin Elangovan, a seasoned web developer specializing in building robust solutions.
+
+🏢 Currently, I'm part of the dynamic team at Santhila Databot Private Limited.
+
+🛠️ With over 2.5 years of experience, I've contributed to various projects, including:
+
+1. ERP software for garbage and waste management 🗑️
+2. School management system 🏫
+3. E-COMMERCE website for Garland Company 🛍️
+4. Tender tracking and management 📝
+5. Image processing using websites 🖼️
+6. E-learning system with game-like interactions 🎮
+7. Automated mail responder with HubSpot integration 📧
+
+🔭 Currently, I'm deeply engaged in enhancing an E-learning system.
+
+💻 Proficient in PHP, Laravel, Vue.js, Next.js, React.js, Node.js, and MERN Stack development.
+
+💬 Let's collaborate! Whether it's coding, brainstorming, or discussing tech trends, I'm all ears.
+
+📫 Connect with me on https://www.linkedin.com/in/navin-elangovan-b03b18209, or shoot me an email at navinivan298@gmail.com.
+
+⚡ Fun fact: I'm a huge fan of experimenting with new tech stacks and exploring the great outdoors.
+
+---
+
+Feel free to adjust it further if needed!
