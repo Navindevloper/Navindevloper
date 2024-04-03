@@ -19,7 +19,7 @@
 
 💬 Let's collaborate! Whether it's coding, brainstorming, or discussing tech trends, I'm all ears.
 
-📫 Connect with me on https://www.linkedin.com/in/navin-elangovan-b03b18209, or shoot me an email at navinivan298@gmail.com.
+📫 Connect with me on https://www.linkedin.com/in/navin-elangovan, or shoot me an email at navinivan298@gmail.com.
 
 ⚡ Fun fact: I'm a huge fan of experimenting with new tech stacks and exploring the great outdoors.
 
