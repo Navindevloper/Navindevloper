@@ -23,9 +23,11 @@
 
 ⚡ Fun fact: I'm a huge fan of experimenting with new tech stacks and exploring the great outdoors.
 
-# My GitHub Activity Graph
+## GitHub Stats
 
-Check out my GitHub activity graph below:
-[Navin's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Navindevloper&bg_color=080808&color=fafafa&line=ea99e5&point=f3f2f2&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+![Navin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Navindevloper&theme=dark&show_icons=true&&hide=issues)
 
 
+## GitHub Activity Graph
+
+[![Navin's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Navindevloper&bg_color=080808&color=fafafa&line=ea99e5&point=f3f2f2&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
