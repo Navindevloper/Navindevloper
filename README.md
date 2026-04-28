@@ -1,33 +1,44 @@
+👋 Hi, I'm Navin Elangovan
 
-👋 Hey there! I'm Navin Elangovan, a seasoned web developer specializing in building robust solutions.
+💻 Full Stack Developer | Laravel | React | SaaS Builder
 
-🏢 Currently, I'm part of the dynamic team at Santhila Databot Private Limited.
+I build scalable web applications that solve real-world problems. With 4+ years of experience, I specialize in backend-heavy systems, API design, and performance optimization—while also delivering clean, responsive UIs.
 
-🛠️ With over 2.5 years of experience, I've contributed to various projects, including:
+🚀 What I Do
+🔧 Build production-grade web apps using Laravel & React
+⚙️ Design scalable APIs & backend architectures
+☁️ Deploy and manage apps on AWS (EC2, S3, RDS)
+🤖 Currently building a SaaS Appointment System (WhatsApp-based)
+📈 Focus on performance, reliability, and clean code
+🧠 Experience Highlights
+🏭 Developed ERP system for waste management
+🏫 Built School Management Platform
+🛒 Created E-commerce system for Garland business
+📊 Designed Tender Tracking System
+🎮 Built Gamified E-learning Platform (current focus)
+📧 Implemented Automated Email System (HubSpot integration)
+🛠️ Tech Stack
 
-1. ERP software for garbage and waste management 🗑️
-2. School management system 🏫
-3. E-COMMERCE website for Garland Company 🛍️
-4. Tender tracking and management 📝
-5. Image processing using websites 🖼️
-6. E-learning system with game-like interactions 🎮
-7. Automated mail responder with HubSpot integration 📧
+Backend:
+PHP • Laravel • Node.js
 
-🔭 Currently, I'm deeply engaged in enhancing an E-learning system.
+Frontend:
+React.js • Next.js • Vue.js • JavaScript
 
-💻 Proficient in PHP, Laravel, Vue.js, Next.js, React.js, Node.js, and MERN Stack development.
+Database:
+MySQL • PostgreSQL
 
-💬 Let's collaborate! Whether it's coding, brainstorming, or discussing tech trends, I'm all ears.
+Other:
+REST APIs • AWS • Git • CI/CD
 
-📫 Connect with me on https://www.linkedin.com/in/navin-elangovan, or shoot me an email at navinivan298@gmail.com.
+🔥 Current Focus
+🚀 Building a SaaS product (Healthcare Appointment System)
+🤖 Integrating WhatsApp Automation + AI (future plan)
+⚡ Improving system design & scalability skills
+📊 GitHub Stats
 
-⚡ Fun fact: I'm a huge fan of experimenting with new tech stacks and exploring the great outdoors.
+📈 Contribution Graph
 
-## GitHub Stats
-
-![Navin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Navindevloper&theme=dark&show_icons=true&&hide=issues)
-
-
-## GitHub Activity Graph
-
-[![Navin's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Navindevloper&bg_color=080808&color=fafafa&line=ea99e5&point=f3f2f2&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+🤝 Let's Connect
+🔗 LinkedIn: https://www.linkedin.com/in/navin-elangovan
+📧 Email: navinivan298@gmail.com
